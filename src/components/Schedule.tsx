@@ -109,35 +109,35 @@ const IconMusic = () => (
 
 const events = [
   {
-    time: "15:00",
+    time: "10:00",
     title: "Сбор гостей",
     desc: "Встреча гостей, музыка, лёгкие закуски и шампанское в ожидании торжества",
     Icon: IconGuests,
     photo: "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&q=80",
   },
   {
-    time: "16:00",
+    time: "11:00",
     title: "Выездная церемония",
     desc: "Торжественное бракосочетание в окружении цветов и близких людей",
     Icon: IconRings,
     photo: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=400&q=80",
   },
   {
-    time: "17:00",
+    time: "12:30",
     title: "Фотосессия",
     desc: "Прогулка молодожёнов, фото с гостями",
     Icon: IconCamera,
     photo: "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=400&q=80",
   },
   {
-    time: "18:00",
+    time: "17:00",
     title: "Банкет",
     desc: "Праздничный ужин, музыка, поздравления и танцы",
     Icon: IconChampaign,
     photo: "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=400&q=80",
   },
   {
-    time: "20:00",
+    time: "22:00",
     title: "Свадебный торт",
     desc: "Разрезание свадебного торта и сладкий фуршет",
     Icon: IconCake,

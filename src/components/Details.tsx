@@ -153,7 +153,7 @@ export default function Details() {
                   className="text-[#c9908f]/80 text-sm tracking-[0.3em] mt-2"
                   style={{ fontFamily: "'Jost', sans-serif" }}
                 >
-                  2026 · пятница
+                  2026 · суббота
                 </p>
               </div>
 
